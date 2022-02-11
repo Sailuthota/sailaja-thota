@@ -1,0 +1,10 @@
+Sgroup=input("enter student group ") 
+S1=int(input("maths marks:")) #55
+
+S2=int(input("physics marks:")) #65
+S3=int(input("computer marks:")) #30
+if s1>=35 and s2>=35 and s3>=35:
+          Print(" Pass*) //true
+else:
+    Print("fail") 
+   
