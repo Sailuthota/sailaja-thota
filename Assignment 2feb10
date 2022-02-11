@@ -1,0 +1,5 @@
+a=int(input("enter a value")) 
+If(a<0):
+       Print("a is negative number ") 
+else:
+     Print("a is positive number") 
